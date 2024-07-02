@@ -1,1 +1,1 @@
-# SQL-portfolio-project
+Imported and formatted a credit card transaction dataset in SQL Server. Identified top 5 cities by total spending and their contribution. Analyzed card type spending patterns, pinpointing peak spending month and amounts. Examined transaction details to identify spending trends across cities.
